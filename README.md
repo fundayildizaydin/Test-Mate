@@ -63,7 +63,7 @@ The generated pytest code will appear on the right.
 
 You can edit, copy, or download it.
 
-➡️ Example in samples.py.
+Example in samples.py.
 
 6. Documentation
 
